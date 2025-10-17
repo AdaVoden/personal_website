@@ -1,7 +1,6 @@
 version: 1
 
 pre-build: |
-    pip install --upgrade nbconvert
     echo Installing Bundler...
     gem install --no-document bundler
     echo Installing Jekyll and dependencies...
