@@ -15,32 +15,32 @@
     {
       "name": "Rothney Astrophysical Observatory",
       "position": "Intern",
-      "startDate": "May 2021",
-      "endDate": "September 2022",
+      "startDate": "2021.05",
+      "endDate": "2022.09",
       "summary": "Assisted in the maintenance and operation of the observatory's telescope and related equipment. Conducted observations and collected data for various research projects. Collaborated with astronomers and researchers to analyze data and contribute to ongoing studies.",
       "highlights": ["Astrophysics Research"]
     },
     {
       "name": "Britelink Information Systems",
       "position": "Systems Administrator",
-      "startDate": "July 2014",
-      "endDate": "August 2017",
+      "startDate": "2014.07",
+      "endDate": "2017.08",
       "summary": "Managed and maintained multiple company's IT infrastructure, including servers, networks, and workstations. Implemented security measures to protect against cyber threats and ensured data integrity through regular backups.",
       "highlights": ["System Administration"]
     },
     {
       "name": "Compugen Inc. (CNRL Contract)",
       "position": "Hardware Technician",
-      "startDate": "February 2013",
-      "endDate": "July 2014",
+      "startDate": "2013.02",
+      "endDate": "2014.07",
       "summary": "Provided hardware support for CNRL's IT infrastructure, including installation, maintenance, and troubleshooting of servers, workstations, and networking equipment. Collaborated with the IT team to ensure optimal performance and reliability of systems.",
       "highlights": ["Desktop Support"]
     },
     {
       "name": "CompuCom Systems Inc. (Suncor Contract)",
       "position": "Deskside Technician",
-      "startDate": "November 2012",
-      "endDate": "February 2013",
+      "startDate": "2012.11",
+      "endDate": "2013.02",
       "summary": "Provided on-site technical support for Suncor employees, including hardware and software troubleshooting, installation, and maintenance. Assisted with IT projects and initiatives to improve overall system performance and user experience.",
       "highlights": ["Desktop Support"]
     }
@@ -51,8 +51,8 @@
       "location": "Priddis, Alberta, Canada",
       "position": "Volunteer",
       "url": "https://science.ucalgary.ca/rothney-observatory",
-      "startDate": "September 2022",
-      "endDate": "June 2024",
+      "startDate": "2022.09",
+      "endDate": "2024.06",
       "summary": "Supported observatory staff with maintenance and operations of telescopes and related equipment."
     }
   ],
@@ -68,7 +68,7 @@
       "score": "3.75 GPA"
     }
   ],
-  "certifications": [
+  "certificates": [
     {
       "name": "Azure Administrator Associate",
       "date": "In Progress",
