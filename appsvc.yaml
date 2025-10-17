@@ -1,8 +1,8 @@
 version: 1
 
 pre-build: |
-    sudo apt-get update && sudo apt-get install -y imagemagick
-    pip3 install --upgrade nbconvert
+    apt-get update && apt-get install -y imagemagick
+    pip install --upgrade nbconvert
     echo Installing Bundler...
     gem install --no-document bundler
     echo Installing Jekyll and dependencies...
