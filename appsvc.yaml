@@ -1,7 +1,6 @@
 version: 1
 
 pre-build: |
-    apt-get update && apt-get install -y imagemagick
     pip install --upgrade nbconvert
     echo Installing Bundler...
     gem install --no-document bundler
