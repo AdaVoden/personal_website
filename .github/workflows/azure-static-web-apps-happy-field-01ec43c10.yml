@@ -55,6 +55,7 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
+          gem install --no-document jekyll bundler
           export JEKYLL_ENV=production
       - name: Build And Deploy
         id: builddeploy
