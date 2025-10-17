@@ -47,6 +47,8 @@ jobs:
           output_location: "_site" # Built app content directory - optional
           github_id_token: ${{ steps.idtoken.outputs.result }}
           ###### End of Repository/Build Configurations ######
+        env:
+          JEKYLL_ENV: production
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
