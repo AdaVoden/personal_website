@@ -102,32 +102,19 @@
       "name": "Cloud Platforms",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "AWS",
-        "Microsoft Azure"
-      ]
+      "keywords": ["AWS", "Microsoft Azure"]
     },
     {
       "name": "Operating Systems",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Windows Server/Desktop",
-        "Linux (Multiple Distributions)",
-        "Mac OSX"
-      ]
+      "keywords": ["Windows Server/Desktop", "Linux (Multiple Distributions)", "Mac OSX"]
     },
     {
       "name": "Scripting and Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Bash",
-        "PowerShell",
-        "HTML/CSS",
-        "JavaScript"
-      ]
+      "keywords": ["Python", "Bash", "PowerShell", "HTML/CSS", "JavaScript"]
     },
     {
       "name": "Infrastructure and Networking",
@@ -147,16 +134,7 @@
       "name": "Tools and Technologies",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git",
-        "PostgreSQL",
-        "Pandas",
-        "NumPy",
-        "Matplotlib",
-        "Jupyter Notebooks",
-        "Emacs",
-        "VS Code"
-      ]
+      "keywords": ["Git", "PostgreSQL", "Pandas", "NumPy", "Matplotlib", "Jupyter Notebooks", "Emacs", "VS Code"]
     }
   ]
 }
