@@ -2,7 +2,7 @@
 layout: page
 title: Shutterbug
 description: Variable Star Detection in Python
-img:
+img: assets/img/nebula_spherical.jpg
 importance: 1
 category: work
 related_publications: false

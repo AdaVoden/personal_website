@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Systems Administrator with 5+ years of enterprise IT experience, now specializing in Azure cloud infrastructure. Currently pursuing Azure certifications and building hands-on projects in automation and DevOps. Based in Edmonton, Alberta and open to remote opportunities.
+Systems Administrator with 5+ years of enterprise IT experience, now specializing in Azure cloud infrastructure. Currently pursuing Azure certifications and building hands-on projects in automation and DevOps. Based in **Edmonton, Alberta** and open to remote opportunities.
