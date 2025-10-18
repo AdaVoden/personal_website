@@ -15,7 +15,7 @@ I chose to deploy it on Azure Static Web Apps to gain hands-on experience with t
 
 After creating my <a href="https://github.com/AdaVoden/personal_website">personal website repository</a> and configuring Azure Static Web Apps, I encountered issues with Oryx (Azure's build tool). Every Build and Deploy job in GitHub Actions failed with the error: "Could not find either 'build' or 'build:azure' node under 'scripts' in package.json."
 
-Adding the build command to *package.json* didn't resolve the issue—instead, it introduced a new error where Oryx was unable to install the gemfiles necessary to build the Jekyll site.
+Adding the build command to `package.json` didn't resolve the issue. Instead, it introduced a new error where Oryx was unable to install the gemfiles necessary to build the Jekyll site.
 
 ## How I figured it out
 
