@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-At the beginning of my internship with the Rothney Astrophysical Observatory, I was tasked with finding a way to procedurally generate graphs for star timeseries data from a .csv. From this project came <a href="https://github.com/AdaVoden/differential-photometry">Shutterbug</a>, an automated variable star detection tool.
+At the beginning of my internship with the Rothney Astrophysical Observatory, I was tasked with finding a way to procedurally generate graphs for star timeseries data from a .csv. From this project came <a href="https://github.com/AdaVoden/Shutterbug">Shutterbug</a>, an automated variable star detection tool.
 
 Given an arbitrary Excel sheet or .csv with appropriate headers and data, it can automatically process photometric observations to remove atmospheric effects and applies statistical testing to identify potentially variable stars. It outputs graphs sorted by detection confidence.
 
