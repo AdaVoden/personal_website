@@ -4,6 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - AdaVoden/differential-photometry
+  - AdaVoden/Shutterbug
   - AdaVoden/Lumina
   - AdaVoden/cmt_dashboard
